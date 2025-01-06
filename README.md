@@ -40,7 +40,7 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=HuzaifaOmar&theme=tokyonight" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com/?user=HuzaifaOmar&theme=tokyonight" alt="GitHub Streak" />
   <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaOmar&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="Top Languages">
 </div>
 
