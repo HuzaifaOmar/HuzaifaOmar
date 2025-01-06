@@ -47,6 +47,8 @@
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=HuzaifaOmar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph">
 
+<img src="https://raw.githubusercontent.com/HuzaifaOmar/HuzaifaOmar/output/snake.svg" alt="Snake animation" />
+
 <!-- Skills Section -->
 <h2>💻 Tech Stack</h2>
 <div align="left">
