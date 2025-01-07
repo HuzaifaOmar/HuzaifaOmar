@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  💻 Computer Science Engineering student passionate about problem solving and building innovative solutions
+  💻 Computer and Systems Engineering student passionate about problem solving and building innovative solutions
   <br>
   🔭 Currently focusing on competitive programming and web development
   <br>
