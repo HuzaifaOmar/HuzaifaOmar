@@ -43,8 +43,8 @@
 <!-- Featured Projects -->
 <h2>🌟 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/HuzaifaOmar/Thread-Line">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=Thread-Line&theme=tokyonight&hide_border=true" alt="Thread-Line">
+  <a href="https://github.com/HuzaifaOmar/ThreadLine">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=ThreadLine&theme=tokyonight&hide_border=true" alt="Thread-Line">
   </a>
   <a href="https://github.com/HuzaifaOmar/web-mail">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=web-mail&theme=tokyonight&hide_border=true" alt="web-mail">
