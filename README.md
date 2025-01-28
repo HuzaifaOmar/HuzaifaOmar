@@ -53,6 +53,9 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=Paint&theme=tokyonight&hide_border=true" alt="Paint">
   </a>
   <a href="https://github.com/HuzaifaOmar/Dots-and-Boxes">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=DoHub&theme=tokyonight&hide_border=true" alt="Dots-and-Boxes">
+  </a>
+  <a href="https://github.com/HuzaifaOmar/Dots-and-Boxes">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuzaifaOmar&repo=Dots-and-Boxes&theme=tokyonight&hide_border=true" alt="Dots-and-Boxes">
   </a>
 </div>
